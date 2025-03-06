@@ -30,6 +30,7 @@ For MAC users also run
 npm i -g solc
 ```
 
+
 For Testing I am giving away my .env data including private key which has ether on both chains for testing purposes.
 
 NOTE: Only For Custom
