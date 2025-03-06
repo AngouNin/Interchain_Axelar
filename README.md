@@ -16,7 +16,7 @@ Before running the scripts, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/mujee7/ITS-Axelar.git
+git clone https://github.com/AngouNin/Interchain_Axelar.git
 ```
 
 2. Install dependencies:
